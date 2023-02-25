@@ -1,30 +1,32 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Osama-Abo-Reda">
 
-<!--
-**Osama-Abo-Reda/Osama-Abo-Reda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img height="70" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osama+Abo-Reda+😀...;Nice+To+Meet+You!&center=true&size=28">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osama-abo-reda-b5852a121/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/osama.bahaa1/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
+  <code><a href="https://stackoverflow.com/users/18633792/osama-bahaa-abo-reda" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osamareida/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<h3 align="center">Hey! 👋 I'm Osama Abo-Reda. 😄 </h3>
+<h4 align="center">Mobile App Developer</h4>
+<br>
+<p align="center">
+  📕 I'm a Software Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+  <br>
+  🌱  Exploring New Technical to Increase My Skills.
+  <br>
+  💻 I love writing code and learn anything new about it.
+  <br>
+  📚 I’m working as a Software Engineer and contributing to building mobile applications.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Osama-Abo-Reda/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osamaaboureida0@gmail.com">osamaaboureida@gmail.com</a>
+</p>
