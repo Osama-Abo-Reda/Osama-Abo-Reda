@@ -52,8 +52,7 @@
 
   <code><img title="FLUTTER" height="25" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">      </code>
   #### Tools
-
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
+  
 <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
@@ -88,7 +87,7 @@ Things you should know -
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Osama-Abo-Reda&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Osama-Abo-Reda&theme=dracula-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
