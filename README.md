@@ -13,9 +13,9 @@
   <code><a href="https://stackoverflow.com/users/18633792/osama-bahaa-abo-reda" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osamareida/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
-<h3 align="center">Hey! 👋 I'm Osama Abo-Reda 😄</h3>
-<h4 align="center">Mobile App Developer</h4>
+
+<h2 align="center">Hey! 👋 I'm Osama Abo-Reda 😄</h2>
+<h3 align="center">Mobile App Developer</h3>
 <br>
 <p align="center">
   📕 I'm a Software Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
