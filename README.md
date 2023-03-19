@@ -15,7 +15,7 @@
 </h5>
 <br>
 <h3 align="center">Hey! 👋 I'm Osama Abo-Reda 😄</h3>
-<h4 align="center">Mobile App Developer</h4>
+<h4 align="center">Software Developer</h4>
 <br>
 <p align="center">
   📕 I'm a Software Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
