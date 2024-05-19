@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/osama-abo-reda-b5852a121/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://web.facebook.com/osama.bahaa1/" target="_blank">
+  <a href="https://www.facebook.com/osama.aboreida/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="68" height="40" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/+201286061666" target="_blank">
